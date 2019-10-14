@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(243, 236, 225)
+}
+h1.first{
+    text-align:center;
+    color:rgb(230, 65, 57);
+    margin-top: 1em;
+    margin-bottom:15px;
+}
+
+h5{
+    color: rgb(50, 59, 107);
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom:5px
+}
+
+ul.alllinks{
+    color:rgb(50, 64, 133);
+    font-size:20px;
+    margin-top:1em;
+    margin-left:36%;
+    text-align:left;
+    list-style-position:inside;
+}
+
+ul.Assign3{
+    position:relative;
+    right:5px;
+    margin-top:3px;
+    margin-bottom:6px;
+}
+
+
+a{
+    font-size:16px;
+}
+
+li#assign4{
+    color:rgb(219, 63, 55);
+}
+
+/*div#new{
+    position:absolute;
+    left:24em;
+    top:15em;
+    color: rgb(231, 65, 57);
+}*/
+
+
+
